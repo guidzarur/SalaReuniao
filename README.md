@@ -1,3 +1,9 @@
+## Gerenciador de salas de reuniões com Java e Angular
+
+
+# 🤳 Sobre
+O presente projeto consiste em desenvolver uma API com Spring Boot para gerenciar nossas salas de reunião, utilizando o Spring Data para persistência de dados e o banco in-memory H2. E o Front End que irá consumir essa API será uma SPA escrita em Angular. O trabalho consiste em uma etapa do bootcamp Santander Fullstack Developer.
+
 # ClientRoom
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
